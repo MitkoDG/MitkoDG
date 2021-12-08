@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dimitar
+- 👋 Hi there, My name is @Dimitar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any kind of project.
