@@ -3,5 +3,11 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any kind of project.
 - 📫 Get in touch with me by email dimitargegov@gmail.com
-- Just finished the "JS Web" level at “SoftUni” and I am about to continue with the next course "React".
-- Proactive, customer-orientated retail professional with over 17 years of experience. Highly capable of getting the most out of my team, leading by example and inspiring each person to deliver an awesome experience to our customers. This in turn ensures that the company achieves the highest sales and profitability possible. I am a very creative person and have implemented lots of ideas and initiatives for both staff and customers that have produced great results. Received two Passion Awards for delivering outstanding service and have consistently surpassed my target KPIs for mystery shoppers. Managed successfully a franchise store for 4 years.
+- Just finished the "JS Web" level at “SoftUni” and I am about to continue with the next course "JS Back-End". At the same time I am doing the "React" on Udemy website.
+
+
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=mitkodg&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165px"/>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mitkodg&layout=compact " height="165px"/>
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitkodg&color=lightgrey&style=flat height="25px"/> </p>
