@@ -1,6 +1,6 @@
 - 👋 Hi there, My name is @Dimitar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning "React"
 - 💞️ I’m looking to collaborate on any kind of project.
 - Just finished the "JS Web" level at “SoftUni” and I am about to continue with the next course "JS Back-End". At the same time I am doing the "React" on Udemy website.
 
