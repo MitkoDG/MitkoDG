@@ -6,7 +6,7 @@
 
 **Links to projects I have worked on:**
 - [ToDo App](https://github.com/MitkoDG/ddg-todo-react-app)
-- [Food order App](https://react-http-66a61.web.app/) , [repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
+- [Food order App](https://react-http-66a61.firebaseapp.com/) , [repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/RaTiMiD/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/RaTiMiD/" height="30" width="40" /></a>
