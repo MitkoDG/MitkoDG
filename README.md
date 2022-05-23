@@ -5,7 +5,7 @@
 - Just finished the "JS Web" module at “SoftUni” and I am about to continue with the next course "JS Back-End". At the same time I am doing the "React" on Udemy website.
 
 **Links to projects I have worked on:**
-- [ToDo App](http://expenses.dimitargegov.com/), [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
+- [Expenses App](https://ddg-todo-react.web.app/), [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
 - [Food order App](http://food.dimitargegov.com/) , [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
