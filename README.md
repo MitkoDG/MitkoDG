@@ -5,6 +5,11 @@
 - Just finished the "JS Web" module at “SoftUni” and I am about to continue with the next course "JS Back-End". At the same time I am doing the "React" on Udemy website.
 
 **Links to projects I have worked on:**
+
+JavaScript:
+- [Movies SPA](https://movies-spa.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/movie-spa)
+
+React:
 - [Food order App](http://food.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
 - [Expenses App](http://expenses.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
 
