@@ -8,6 +8,7 @@
 
 JavaScript:
 - [Movies SPA](https://movies-spa.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/movie-spa)
+- [Memory Game](https://memory-game.dimitargegov.com/) => [Repo](https://github.com/MitkoDG/memory-game)
 
 React:
 - [Food order App](http://food.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
