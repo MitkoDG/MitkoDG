@@ -13,6 +13,8 @@ JavaScript:
 React:
 - [Food order App](http://food.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
 - [Expenses App](http://expenses.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
+- [Worldwide Weacher Forecast App](https://weather.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/ddg-weather-forecast)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
