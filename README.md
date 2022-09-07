@@ -6,15 +6,17 @@
 
 **Links to projects I have worked on:**
 
-JavaScript:
+**JavaScript:**
 - [Movies SPA](https://movies-spa.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/movie-spa)
 - [Memory Game](https://memory-game.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/memory-game)
 
-React:
+**React:**
 - [Food order App](http://food.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
 - [Expenses App](http://expenses.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
 - [Worldwide Weacher Forecast App](https://weather.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/ddg-weather-forecast)
 
+**Component list:**
+- [See demo for all components](https://components.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/components-collection)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
