@@ -18,6 +18,8 @@
 **Component list:**
 - [See demo for all components](https://components.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/components-collection)
 
+[Login screen page](https://components.dimitargegov.com/login-screen-errors/index.html) || [Loading page with blur effect](https://components.dimitargegov.com/fade-to-clear-loading-screen/index.html) || [Filter random user list](https://components.dimitargegov.com/user-filter/index.html) || [Order summary](https://components.dimitargegov.com/order-summary/index.html) || [Scroll Animation](https://components.dimitargegov.com/scroll-animation/index.html) || [Hidden Menu](https://components.dimitargegov.com/hidden-navigation/index.html) || [Calculator](https://components.dimitargegov.com/calculator/index.html)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/RaTiMiD/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/RaTiMiD/" height="30" width="40" /></a>
