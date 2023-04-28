@@ -1,8 +1,8 @@
 - 👋 Hi there, My name is @Dimitar
-- 👀 I’m interested in coding as you can see
-- 🌱 I’m currently getting in deep of html and css
-- 💞️ I’m looking to collaborate on any kind of project.
-- Right now I am doing the NodeJS course on Udemy website.
+- 🔭 I’m currently working on improving my skills in Node.js, Express, and React.
+- 🌱 I’m always learning and experimenting with new technologies.
+- 💼 I’m open to job opportunities and freelance projects.
+- 💬 Ask me about anything related to web development, I'm happy to help.
 
 **Links to projects I have worked on:**
 
