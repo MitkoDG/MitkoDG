@@ -7,19 +7,19 @@
 **Links to projects I have worked on:**
 
 **JavaScript:**
-- [Movies SPA](https://movies-spa.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/movie-spa)
-- [Memory Game](https://memory-game.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/memory-game)
+- [Movies SPA](https://movies-spa.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/movie-spa)
+- [Memory Game](https://memory-game.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/memory-game)
 
 **React:**
-- [Food order App](http://food.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
-- [Expenses App](http://expenses.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
-- [Worldwide Weacher Forecast App](https://weather.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/ddg-weather-forecast)
-- [Gallery](https://admolite.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/react-test-app)
+- [Food order App](http://food.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
+- [Expenses App](http://expenses.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
+- [Worldwide Weacher Forecast App](https://weather.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/ddg-weather-forecast)
+- [Gallery](https://admolite.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/react-test-app)
 
 **Component list:**
-- [See demo for all components](https://components.dimitargegov.com/) -> [Repo](https://github.com/MitkoDG/components-collection)
+- [See demo for all components](https://components.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/components-collection)
 
-[Login screen page](https://components.dimitargegov.com/login-screen-errors/index.html) || [Loading page with blur effect](https://components.dimitargegov.com/fade-to-clear-loading-screen/index.html) || [Filter random user list](https://components.dimitargegov.com/user-filter/index.html) || [Order summary](https://components.dimitargegov.com/order-summary/index.html) || [Scroll Animation](https://components.dimitargegov.com/scroll-animation/index.html) || [Hidden Menu](https://components.dimitargegov.com/hidden-navigation/index.html) || [Calculator](https://components.dimitargegov.com/calculator/index.html) || [Clock](https://components.dimitargegov.com/clock/index.html)
+[Login screen page](https://components.dimitargegov.com/login-screen-errors/index.html) || [Loading page with blur effect](https://components.dimitargegov.site/fade-to-clear-loading-screen/index.html) || [Filter random user list](https://components.dimitargegov.site/user-filter/index.html) || [Order summary](https://components.dimitargegov.site/order-summary/index.html) || [Scroll Animation](https://components.dimitargegov.site/scroll-animation/index.html) || [Hidden Menu](https://components.dimitargegov.site/hidden-navigation/index.html) || [Calculator](https://components.dimitargegov.site/calculator/index.html) || [Clock](https://components.dimitargegov.site/clock/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
