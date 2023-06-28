@@ -6,17 +6,17 @@
 
 **Links to projects I have worked on:**
 
-![link](https://github.com/MitkoDG/personal/blob/main/logo%20-%20no%20background.png)
-
-**JavaScript:**
-- [Movies SPA](https://movies-spa.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/movie-spa)
-- [Memory Game](https://memory-game.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/memory-game)
+![link](https://github.com/MitkoDG/react-test-app/blob/main/src/assets/images/logo%20-%20no%20background.png)
 
 **React:**
 - [Food order App](http://food.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
 - [Expenses App](http://expenses.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
 - [Worldwide Weather Forecast App](https://weather.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/ddg-weather-forecast)
 - [Gallery](https://admolite.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/react-test-app)
+- 
+**JavaScript:**
+- [Movies SPA](https://movies-spa.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/movie-spa)
+- [Memory Game](https://memory-game.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/memory-game)
 
 **Component list:**
 - [See demo for all components](https://components.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/components-collection)
