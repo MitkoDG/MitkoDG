@@ -9,10 +9,11 @@
 ![link](https://github.com/MitkoDG/react-test-app/blob/main/src/assets/images/logo%20-%20no%20background.png)
 
 **React:**
+- [Store](https://localstore.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/c4-nexus)
+- [Gallery](https://admolite.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/react-test-app)
 - [Food order App](http://food.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
 - [Expenses App](http://expenses.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
 - [Worldwide Weather Forecast App](https://weather.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/ddg-weather-forecast)
-- [Gallery](https://admolite.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/react-test-app)
 - 
 **JavaScript:**
 - [Movies SPA](https://movies-spa.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/movie-spa)
