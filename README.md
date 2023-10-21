@@ -29,7 +29,7 @@
 <a href="https://www.facebook.com/RaTiMiD/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/RaTiMiD/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dimitargegov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dimitargegov/" height="30" width="40" /></a>
 </p>
-- 📫 Get in touch with me by email dimitargegov@gmail.com
+- 📫 Get in touch with me by emailing dimitargegov@gmail.com
 
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=mitkodg&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165px"/>
