@@ -16,7 +16,7 @@
 - [Store](https://localstore.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/c4-nexus)
   
 **JavaScript:**
-- [Movies SPA](https://movies-spa.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/movie-spa)
+- [Movies SPA](https://movies-spa.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/movie-spa)
 - [Memory Game](https://memory.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/memory-game)
 
 **Component list:**
