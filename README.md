@@ -10,17 +10,17 @@
 
 **React:**
 - [Gallery](https://admolite.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/react-test-app)
-- [Food order App](http://food.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
-- [Expenses App](http://expenses.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
+- [Food order App](http://food.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
+- [Expenses App](http://expenses.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
 - [Worldwide Weather Forecast App](https://weather.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/ddg-weather-forecast)
-- [Store](https://localstore.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/c4-nexus)
+- [Store](https://localstore.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/c4-nexus)
   
 **JavaScript:**
 - [Movies SPA](https://movies-spa.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/movie-spa)
 - [Memory Game](https://memory.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/memory-game)
 
 **Component list:**
-- [See demo for all components](https://components.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/components-collection)
+- [See demo for all components](https://components.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/components-collection)
 
 [Login screen page](https://components.dimitargegov.site/login-screen-errors/index.html) || [Loading page with blur effect](https://components.dimitargegov.site/fade-to-clear-loading-screen/index.html) || [Filter random user list](https://components.dimitargegov.site/user-filter/index.html) || [Order summary](https://components.dimitargegov.site/order-summary/index.html) || [Scroll Animation](https://components.dimitargegov.site/scroll-animation/index.html) || [Hidden Menu](https://components.dimitargegov.site/hidden-navigation/index.html) || [Calculator](https://components.dimitargegov.site/calculator/index.html) || [Clock](https://components.dimitargegov.site/clock/index.html)
 
