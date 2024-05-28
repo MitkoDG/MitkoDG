@@ -25,7 +25,8 @@
 [Login screen page](https://components.dimitargegov.website/login-screen-errors/index.html) || [Loading page with blur effect](https://components.dimitargegov.website/fade-to-clear-loading-screen/index.html) || [Filter random user list](https://components.dimitargegov.website/user-filter/index.html) || [Order summary](https://components.dimitargegov.website/order-summary/index.html) || [Scroll Animation](https://components.dimitargegov.website/scroll-animation/index.html) || [Hidden Menu](https://components.dimitargegov.website/hidden-navigation/index.html) || [Calculator](https://components.dimitargegov.site/calculator/index.html) || [Clock](https://components.dimitargegov.site/clock/index.html)
 
 **Other projects:**
-- [Task JavaScript](https://1-stream.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/1-stream)
+- [JavaScript Task](https://1-stream.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/1-stream)
+- [React Task](https://vachev.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/vachev-test-task)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
