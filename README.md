@@ -9,24 +9,24 @@
 ![link](https://github.com/MitkoDG/react-test-app/blob/main/src/assets/images/logo%20-%20no%20background.png)
 
 **React:**
-- [Gallery](https://admolite.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/react-test-app)
-- [Food order App](http://food.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
-- [Expenses App](http://expenses.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
-- [Worldwide Weather Forecast App](https://weather.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/ddg-weather-forecast)
-- [Store](https://localstore.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/c4-nexus)
+- [Gallery](https://admolite.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/react-test-app)
+- [Food order App](http://food.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/react/tree/main/food-order-app)
+- [Expenses App](http://expenses.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/ddg-todo-react-app)
+- [Worldwide Weather Forecast App](https://weather.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/ddg-weather-forecast)
+- [Store](https://localstore.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/c4-nexus)
   
 **JavaScript:**
-- [Movies SPA](https://movies-spa.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/movie-spa)
-- [Memory Game](https://memory.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/memory-game)
+- [Movies SPA](https://movies-spa.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/movie-spa)
+- [Memory Game](https://memory.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/memory-game)
 
 **Component list:**
-- [See demo for all components](https://components.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/components-collection)
+- [See demo for all components](https://components.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/components-collection)
 
-[Login screen page](https://components.dimitargegov.website/login-screen-errors/index.html) || [Loading page with blur effect](https://components.dimitargegov.website/fade-to-clear-loading-screen/index.html) || [Filter random user list](https://components.dimitargegov.website/user-filter/index.html) || [Order summary](https://components.dimitargegov.website/order-summary/index.html) || [Scroll Animation](https://components.dimitargegov.website/scroll-animation/index.html) || [Hidden Menu](https://components.dimitargegov.website/hidden-navigation/index.html) || [Calculator](https://components.dimitargegov.website/calculator/index.html) || [Clock](https://components.dimitargegov.website/clock/index.html)
+[Login screen page](https://components.dimitargegov.site/login-screen-errors/index.html) || [Loading page with blur effect](https://components.dimitargegov.site/fade-to-clear-loading-screen/index.html) || [Filter random user list](https://components.dimitargegov.site/user-filter/index.html) || [Order summary](https://components.dimitargegov.site/order-summary/index.html) || [Scroll Animation](https://components.dimitargegov.site/scroll-animation/index.html) || [Hidden Menu](https://components.dimitargegov.site/hidden-navigation/index.html) || [Calculator](https://components.dimitargegov.site/calculator/index.html) || [Clock](https://components.dimitargegov.site/clock/index.html)
 
 **Other projects:**
-- [JavaScript Task](https://1-stream.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/1-stream)
-- [React Task](https://vachev.dimitargegov.website/) -> [Repo](https://github.com/MitkoDG/vachev-test-task)
+- [JavaScript Task](https://1-stream.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/1-stream)
+- [React Task](https://vachev.dimitargegov.site/) -> [Repo](https://github.com/MitkoDG/vachev-test-task)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
